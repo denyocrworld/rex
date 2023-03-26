@@ -1,2 +1,17 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+
+
+### Cara Install
+```
+flutter pub global activate rex
+```
+
+### Membuat Project dengan Template Hyper UI
+```
+rex create blog
+```
+
+atau
+
+```
+flutter pub global run rex create blog
+```
