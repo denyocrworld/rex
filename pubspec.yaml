@@ -1,7 +1,7 @@
-name: hy
-homepage: https://github.com/denyocrworld/hy
+name: rex
+homepage: https://github.com/denyocrworld/flo
 description: ---
-version: 1.0.2
+version: 1.0.3
 # repository: https://github.com/my_org/my_repo
 
 environment:
